@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/viktoria545/working-environment2/issues"
   },
-  "homepage": "https://github.com/viktoria545/working-environment2#readme"
+  "homepage": "https://github.com/viktoria545/working-environment2#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.13.0",
+    "@babel/core": "^7.13.1",
+    "@babel/preset-env": "^7.13.5"
+  },
+  "dependencies": {
+    "core-js": "^3.9.0"
+  }
 }
